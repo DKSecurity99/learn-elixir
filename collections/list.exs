@@ -5,7 +5,6 @@
 
 items = [19, :testing, "String"]
 
-
 # Prepending (rápido) 
 items = ["firstItem" | items]
 
